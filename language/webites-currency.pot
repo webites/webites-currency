@@ -1,0 +1,70 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: weBites Currency  v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2021-07-05 13:23+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Łukasz Gołabek <lgolabek@outlook.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: webites-currency.php:76
+msgid "Exchange rate"
+msgstr ""
+
+#: includes/webites-currency-options.php:70
+#: includes/webites-currency-options.php:71
+msgid "Currencies"
+msgstr ""
+
+#: includes/webites-currency-options.php:99
+msgid "weBites Currency Plugin Options"
+msgstr ""
+
+#: includes/webites-currency-options.php:107
+msgid "Display after posts and page content"
+msgstr ""
+
+#: includes/webites-currency-options.php:118
+msgid "Header before displayed plugin"
+msgstr ""
+
+#: includes/webites-currency-options.php:129
+msgid "Text after displayed plugin"
+msgstr ""
+
+#: includes/webites-currency-options.php:144
+msgid "weBites Currency - Display Currencies via Shortcode"
+msgstr ""
+
+#: includes/webites-currency-options.php:147
+msgid ""
+"Use the simple shortcode to display currencies wherever you want: <br> <pre> "
+"[webites_currency][/webites_currency]</pre>"
+msgstr ""
+
+#: includes/webites-currency-options.php:156
+msgid "weBites Currency - Display Currencies"
+msgstr ""
+
+#: includes/webites-currency-options.php:163
+msgid "Check currencies which have to display"
+msgstr ""
+
+#: includes/webites-currency-options.php:165
+msgid "We recommended choose beetween 3 and 7"
+msgstr ""

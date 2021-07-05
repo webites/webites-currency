@@ -1,0 +1,54 @@
+.currencyContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    min-width: 100%;
+    box-shadow: 0 0 1rem;
+    padding-right: 2rem;
+    margin-bottom: 1rem;
+}
+
+.mainCurrency{
+    width: 20%;
+    padding: .8rem;
+    margin: 0 1rem;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.currencyItem{
+    text-align: center;
+    font-size: 1.6rem;
+    box-sizing: border-box;
+    padding: .8rem;
+    margin: 0 1rem;
+    width: 20%;
+}
+
+.currencyItem h6{
+    border-top: 1px solid;
+    padding-top: 1rem;
+    margin-top: 0;
+}
+
+.headerBeforePlugin{
+    text-align: center;
+}
+
+.textAfterPlugin{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+.wbcp_currency_header_rate{
+    text-align: center;
+    font-size: 1.2rem;
+}
