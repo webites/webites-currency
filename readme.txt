@@ -1,9 +1,9 @@
 === Plugin Name ===
 Contributors: lgolabek
-Donate link: https://docs.webites.dev/en/donate/
+Donate link: https://www.buymeacoffee.com/lgolabek
 Tags: currency, eur, usd, gbp, jpy, chf, aud, display currencies, get currencies
-Tested up to: 5.7.2
-Stable tag: 1.2.1
+Tested up to: 5.8
+Stable tag: 1.2.2
 License: GPLv2 
 
  
@@ -87,7 +87,11 @@ It's job for developers but yes, you can use currencies for example calculating 
 2. Display on Twenty Twenty-one Theme
 
 == Changelog ==
- 
+
+= 1.2.2 =
+
+* Upgraded plugin to WordPress version 5.8
+
 = 1.2.1 =
 * Added shortcode
 * Added Plugin Options

@@ -6,7 +6,7 @@
  * Description: Plugin display current currencies
  * Author: Łukasz Gołabek
  * Author URI: https://webites.pl
- * Version: 1.2.1
+ * Version: 1.2.2
  * License: GPLv2
  * Text Domain: webites-currency
  * Domain Path: /languages
@@ -24,7 +24,7 @@ add_action( 'init', 'wbcp_currency_load_textdomain' );
 function wbcp_currency_load_textdomain() {
   load_plugin_textdomain( 'webites-currency', false, dirname( plugin_basename( __FILE__ ) ) . '/languages' ); 
 }
- 
+  
 
 function wbcp_currency_add_style()
 {
